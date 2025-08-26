@@ -29,7 +29,7 @@ function App() {
     { src: quintal, alt: 'Quintal' }
   ]
 
-  const whatsappNumber = "5543960798490"
+  const whatsappNumber = "554396079849"
   const whatsappMessage = "Olá! Tenho interesse na casa do programa Minha Casa Minha Vida em Alvorada do Sul. Gostaria de mais informações!"
 
   const nextImage = () => {
