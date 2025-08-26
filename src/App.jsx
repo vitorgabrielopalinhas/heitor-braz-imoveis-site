@@ -14,6 +14,7 @@ import quarto1 from './assets/images/quarto1.jpg'
 import quarto2 from './assets/images/quarto2.jpg'
 import banheiro from './assets/images/banheiro.jpg'
 import quintal from './assets/images/quintal.jpg'
+import centro from './assets/images/centro.jpg'
 
 function App() {
   const [currentImageIndex, setCurrentImageIndex] = useState(0)
